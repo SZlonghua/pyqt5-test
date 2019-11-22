@@ -1,0 +1,171 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+.gitignore
+venv/Include/
+venv/Lib/site-packages/PyQt5/__pycache__/
+venv/Lib/site-packages/PyQt5/uic/Compiler/__pycache__/
+venv/Lib/site-packages/PyQt5/uic/Loader/__pycache__/
+venv/Lib/site-packages/PyQt5/uic/__pycache__/
+venv/Lib/site-packages/PyQt5/uic/port_v2/__pycache__/
+venv/Lib/site-packages/PyQt5/uic/port_v3/__pycache__/
+venv/Lib/site-packages/PyQt5/uic/widget-plugins/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/caches/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pkg_resources/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/__pycache__/
+venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/__pycache__/
